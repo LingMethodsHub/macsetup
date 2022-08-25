@@ -13,6 +13,8 @@ draft: false
 weight: 10
 ---
 
+
+
 Fresh out of the box, there are a few bits of configuration you'll need to do to get your macOS computer ready for scientific computing.
 
 1.  Make sure "command line tools" are installed.
