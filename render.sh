@@ -1,0 +1,1 @@
+quarto render macsetup.qmd --to html -o index.html
