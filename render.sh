@@ -1,1 +1,1 @@
-quarto render macsetup.qmd --to html -o index.html
+quarto render macsetup.qmd --to hugo -o _index.md
